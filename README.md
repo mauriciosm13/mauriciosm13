@@ -1,7 +1,7 @@
 ## Olá, eu sou Maurício
 
-- 🔭 Working with back-end
-- 🌱 Currently studying C# and .NET 6 / TDD and Automated Testing
+- 🔭 Working with back-end C# and .NET
+- 🌱 Currently studying NodeJS / TDD and Automated Testing
 - 📫 How to reach me: mauricio.mendonca66@gmail.com
 <div align="center">
   <a href="https://github.com/mauriciosm13">
