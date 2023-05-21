@@ -1,7 +1,7 @@
 ## Olá, eu sou Maurício
 
-- 🔭 Working with back-end C# and .NET
-- 🌱 Currently studying NodeJS / AWS
+- 🔭 Working with Integration in Oracle
+- 🌱 Currently studying C#
 - 📫 How to reach me: mauricio.mendonca66@gmail.com
 <div align="center">
   <a href="https://github.com/mauriciosm13">
