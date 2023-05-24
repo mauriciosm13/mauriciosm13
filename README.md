@@ -1,7 +1,7 @@
 ## Olá, eu sou Maurício
 
 - 🔭 Working with Integration in Oracle
-- 🌱 Currently studying C#
+- 🌱 Currently studying C#/.NET and MySQL
 - 📫 How to reach me: mauricio.mendonca66@gmail.com
 <div align="center">
   <a href="https://github.com/mauriciosm13">
