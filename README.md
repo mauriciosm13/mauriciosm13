@@ -2,7 +2,7 @@
 
 - 🔭 Working with Integration in Oracle
 - 🖥️ I am Computer Engineering student
-- 🌱 Currently studying Swift
+- 🌱 Currently studying Go
 - 📫 How to reach me: mauricio.mendonca66@gmail.com
 <div align="center">
   <a href="https://github.com/mauriciosm13">
