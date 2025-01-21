@@ -2,7 +2,7 @@
 
 - 🔭 Working with Integration in Oracle
 - 🖥️ I am Computer Engineering student
-- 🌱 Currently studying Go
+- 🌱 Currently studying Python
 - 📫 How to reach me: mauricio.mendonca66@gmail.com
 <div align="center">
   <a href="https://github.com/mauriciosm13">
@@ -11,8 +11,7 @@
 </div>
   
   <div style="display: inline_block"><br>
-    <img align="center" alt="Swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
-    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
+    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
     
   ##
