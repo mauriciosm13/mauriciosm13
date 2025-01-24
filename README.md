@@ -1,7 +1,6 @@
 ## Olá, eu sou Maurício
 
 - 🔭 Working with Integration in Oracle
-- 🖥️ I am Computer Engineering student
 - 🌱 Currently studying Python
 - 📫 How to reach me: mauricio.mendonca66@gmail.com
 <div align="center">
