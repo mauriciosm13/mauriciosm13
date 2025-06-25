@@ -1,6 +1,6 @@
 ## Olá, eu sou Maurício
 
-- 🔭 Working with Integration in Oracle
+- 🔭 Working with backend in Stark Bank
 - 🌱 Currently studying Python
 - 📫 How to reach me: mauricio.mendonca66@gmail.com
 <div align="center">
